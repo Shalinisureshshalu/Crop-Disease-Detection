@@ -1,0 +1,19 @@
+To RUN THIS
+
+BACKEND:
+
+folder Crop_Disease_Detection  --> crop model --> cmd --> python main.py
+
+then it will show like this type of 
+ http://127.0.0.1:5000/
+
+FRONTEND:
+folder Crop_Disease_Detection  --> Crop_Disease_Prediction --> cmd --> npm start
+
+then it will show like this type of
+http://localhost:3000/ in edge 
+
+then upload image and detect the disease....
+
+end !!
+

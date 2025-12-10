@@ -21,3 +21,5 @@ node_modules/
 # Dataset folders
 data/
 datasets/
+Crop-Disease-Detection-and-Severity-Estimation-PLOS-ONE/
+crop_model/
